@@ -1,2 +1,2 @@
 # Projects
-A repository for all projects that I have done
+A repository for my projects!
