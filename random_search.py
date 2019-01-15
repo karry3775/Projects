@@ -4,10 +4,6 @@ import gym
 import logging
 import time
 
-logger = logging.getLogger('rl')
-logger.setLevel(logging.DEBUG)
-
-
 class Harness:
 
     def run_episode(self, env, agent):
