@@ -27,8 +27,7 @@ class LinearAgent:
         return 0 if np.matmul(self.parameters, observation) < 0 else 1
 
 
-def random_search():
-    # implement this!
+def random_search():    
     env = gym.make('CartPole-v0')
     best_params = None
     best_reward = 0
