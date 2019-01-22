@@ -3,8 +3,8 @@
 
 import numpy as np
 from numpy.linalg import matrix_power as mp
-# N = int(input("Enter the number of states in your Markov chain"))
-N = 5
+N = int(input("Enter the number of states in your Markov chain"))
+
 
 # Function for populating the state transition probability matrix
 # You can have your own state transition probability matrix
