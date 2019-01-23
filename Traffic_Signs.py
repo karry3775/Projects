@@ -1,5 +1,5 @@
-!git clone https://bitbucket.org/jadslim/german-traffic-signs
-!ls german-traffic-signs/
+# !git clone https://bitbucket.org/jadslim/german-traffic-signs
+# !ls german-traffic-signs/
 import keras
 import numpy as np
 import  matplotlib.pyplot as plt
